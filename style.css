@@ -1,0 +1,70 @@
+
+/* FONT */
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rancho&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+1p&display=swap');
+
+/* STYLE */
+.navbar {
+    height: 50px;
+}
+.instagram {
+    color: #F05454!important;
+    font-size: 35px;
+}
+.instagram:hover {
+    color: #9B0000!important;
+    font-size: 40px;
+}
+.name {
+    color: #F05454!important;
+    font-size: 25px;
+    font-family: 'Satisfy', cursive;
+}
+.name:hover {
+    color: #e91e1e!important;
+}
+.bg-japan {
+    background-image: url('background_fuji.jpg');
+    background-size: cover;
+    min-height: 100vh;
+}
+.body-background {
+    margin-top: 100px;
+    margin-left: 140px;
+    margin-right: 140px;
+    min-height: 70vh;
+}
+.profile {
+    width: 15rem;
+    height: 15rem;
+}
+.title {
+    font-family: 'Rancho', cursive;
+    font-size: 50px;
+}
+.sub-title {
+    font-family: 'M PLUS 1p', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+.btn-sakura {
+    color: #fff;
+    background-color: #F05454;
+    border-color: #F05454;
+}
+.btn-sakura:hover {
+    color: #fff;
+    background-color: #e91e1e;
+    border-color: #e91e1e;
+}
+.about {
+    height: 35vh;
+}
+.contact_link {
+    color: #041562;
+}
+.contact_text {
+    text-decoration: none;
+    color: #041562;
+}
